@@ -1,2 +1,3 @@
 # Python_Assignment
-pythn assignments
+python assignments
+
